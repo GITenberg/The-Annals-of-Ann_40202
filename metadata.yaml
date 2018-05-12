@@ -1,0 +1,38 @@
+_repo: The-Annals-of-Ann_40202
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Meylan, Paul Julian
+    aliases:
+    - Meylan, Paul Julien
+    - Meylan, Paul J.
+    birthdate: 1882
+    deathdate: 1961
+    gutenberg_agent_id: '7842'
+    url: http://www.gutenberg.org/2009/agents/7842
+covers:
+- cover_type: archival
+  image_path: 40202-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sharber, Kate Trimble
+    birthdate: 1883
+    gutenberg_agent_id: '40477'
+    url: http://www.gutenberg.org/2009/agents/40477
+description: ''
+gutenberg_issued: '2012-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Fiction'
+- !lcc 'PS'
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Love stories, American'
+- !lcsh 'Diary fiction'
+title: The Annals of Ann
+url: http://www.gutenberg.org/ebooks/40202
